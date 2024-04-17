@@ -15,3 +15,8 @@
 
 ## Hypothesis:
 - The Unet should perform better since i have enough labelled infos!
+
+
+
+## VGG16
+![img1](https://github.com/SimBoex/MoonRocksSemanticSegmentation/blob/1aadb602db1a1e792c85d0fad1175e07f4f3b8f9/vgg16.png)
