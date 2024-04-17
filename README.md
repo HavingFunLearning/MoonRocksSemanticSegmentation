@@ -9,3 +9,5 @@
 ## Dataset:
 "The dataset currently contains 9,766 realistic renders of rocky lunar landscapes, and their segmented equivalents (the 3 classes are the sky, smaller rocks, and larger rocks). A table of bounding boxes for all larger rocks and processed, cleaned-up ground truth images are also provided. We recommend that users check the "Understanding and Using the Dataset" kernel for additional information and guidelines on how to use the dataset effectively" [Kaggle]
 
+## Hypothesis:
+- The Unet should perform better since i have enough labelled infos!
