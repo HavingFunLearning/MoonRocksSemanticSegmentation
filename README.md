@@ -1,9 +1,9 @@
 # MoonRocksSemanticSegmentation
 
-- the dataset is taken from [here](https://www.kaggle.com/datasets/romainpessia/artificial-lunar-rocky-landscape-dataset)
+- The dataset is taken from [here](https://www.kaggle.com/datasets/romainpessia/artificial-lunar-rocky-landscape-dataset)
 
 - My approach is the following:
-- first, try to extract features and then apply Random forests!
+- First, try to extract features and then apply Random forests!
 - Second, try Unet!
 
 ## Dataset:
